@@ -1,0 +1,3 @@
+links:
+https://www.scrapingbee.com/blog/selenium-python/
+https://www.scrapingbee.com/blog/practical-xpath-for-web-scraping/
