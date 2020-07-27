@@ -1,5 +1,5 @@
 # WEB-SCRAPING-with-Python
 webscraping using python
 
-[Selenium](/Webscraping/SELENIUM_BASICS/)
-[BeautifulSoup](/Webscraping/BS4_BASICS/)
+1. [Selenium](/Webscraping/SELENIUM_BASICS/)
+2. [BeautifulSoup](/Webscraping/BS4_BASICS/)
